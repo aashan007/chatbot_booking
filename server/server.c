@@ -8,7 +8,7 @@ int main(){
 
 	char *server = "localhost";
 	char *user = "root";
-	char *password = "gameofthrones"; /* set me first */
+	char *password = "password"; /* set me first */
 	char *database = "test";
 
 	conn = mysql_init(NULL);
